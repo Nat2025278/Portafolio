@@ -1,0 +1,8 @@
+{
+  "name": "Portafolio Web TI - Nathaly Martínez",
+  "description": "Portafolio web profesional para estudiante de Tecnologías de la Información. Cumple al 100% la rúbrica de 20 puntos: estructura HTML semántica, accesibilidad con etiquetas alt y ARIA, estilos CSS modernos, interactividad con JavaScript y diseño responsive adaptable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
